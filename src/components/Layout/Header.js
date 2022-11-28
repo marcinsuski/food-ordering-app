@@ -15,7 +15,7 @@ const Header = (props) => {
             <div className={classes['main-image']}>
                 <img src={mealsImage}  alt="a table full of delicious food"/>
             </div>
-0        </React.Fragment>
+        </React.Fragment>
     );
 };
 
