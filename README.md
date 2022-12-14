@@ -2,9 +2,9 @@
 
 ## Table of contents
 - [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Links](#links)
+- [Utilities](#utilities)
+- [Built with](#built-with)
 - [Author](#author)
 
 
